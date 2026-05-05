@@ -1,4 +1,4 @@
-# Pim_3_WS
+# PIM_3_LG
 
 ## Desafio
 
