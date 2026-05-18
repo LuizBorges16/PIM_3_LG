@@ -35,12 +35,6 @@
     <td align="center"><a href="https://github.com/DiegoSantossRodrigues"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a></td>
   </tr>
   <tr>
-    <td>Nicolas Freitas Valle</td>
-    <td align="center"><code>R4512F2</code></td>
-    <td align="center">⚡ Scrum Master</td>
-    <td align="center"><a href="https://github.com/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a></td>
-  </tr>
-  <tr>
     <td>Willian Augusto Quincas Senna</td>
     <td align="center"><code>H78BIA3</code></td>
     <td align="center">💻 Dev</td>
