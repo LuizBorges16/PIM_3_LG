@@ -1,26 +1,3 @@
-<h1 align="center">📘 PIM_3_LG</h1>
-
-<p align="center">
-  <em>Plataforma Web de Avaliação e Apoio à Aprendizagem</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/semestre-3º-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/curso-ADS-purple?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astah%20UML-2E6DB4?style=for-the-badge&logo=uml&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
----
-
-
 ## 🎯 Desafio
 
 > Desenvolver o projeto de uma **plataforma web de avaliação e apoio à aprendizagem** para uma empresa fictícia de tecnologia educacional, integrando conceitos de **engenharia de software ágil**, **modelagem de dados**, **programação orientada a objetos**, **desenvolvimento web responsivo**, **UX/UI design** e **análise de dados**, com foco na **tomada de decisão baseada em informações de desempenho dos usuários**.
