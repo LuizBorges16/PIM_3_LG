@@ -1,10 +1,4 @@
-<h1 align="center"> 🎓 PIM III: Plataforma Web Educacional (Pim_3_LG) </h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-warning?style=for-the-badge&logo=gear" alt="Status do Projeto">
-</p>
-
----
+<h1 align="center"> 🎓 PIM III: Plataforma Web Educacional (Pim_3_LG) </h1
 
 ## 🎯 O Desafio
 
